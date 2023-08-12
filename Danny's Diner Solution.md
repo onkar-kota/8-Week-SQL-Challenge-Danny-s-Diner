@@ -2,6 +2,7 @@
 
 ## Solution
 
+[Visit the complete Schema](https://github.com/onkar-kota/8-Week-SQL-Challenge-Danny-s-Diner/blob/main/Case%20Study%201%20-%20Danny's%20Diner.sql)
 ***
 
 ### 1. What is the total amount each customer spent at the restaurant?

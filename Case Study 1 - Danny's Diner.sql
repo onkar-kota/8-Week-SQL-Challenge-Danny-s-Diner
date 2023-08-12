@@ -1,5 +1,7 @@
 -- Setting Schema for databse
 -- CREATING DATA SET
+
+<iframe width="560" height="315" src='https://dbdiagram.io/embed/64d72d7602bd1c4a5ea9a0e0'> </iframe>
 CREATE TABLE sales (
   "customer_id" VARCHAR(1),
   "order_date" DATE,

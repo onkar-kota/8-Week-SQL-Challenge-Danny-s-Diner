@@ -43,7 +43,7 @@ Group by customer_id
 
 - Customer A, B and C visited 4, 6 and 2 times respectivly.
 
-***
+****
 
 ### 3. What was the first item from the menu purchased by each customer?
 
